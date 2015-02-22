@@ -1,4 +1,0 @@
-#!/bin/bash
-
-cabal build
-./dist/build/build_vm/build_vm
